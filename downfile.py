@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 27 12:40:33 2019
 
-@author: MANJU
+@author: MANJU Jain
 @Desc : download the pdf,txt,and img file form the internet
 """
 
